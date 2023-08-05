@@ -3,3 +3,8 @@ Un Datapack pour le serveur Minecraft Hastia Saison 5
 
 ## Liste des fonctionnalités
 - Message de prévention, qui indique de le serveur n'est PAS affilié à Mojang/Microsoft
+- Craft Customs (voir plus bas)
+
+## Liste des Craft Customs
+- Name Tag
+- Selle
